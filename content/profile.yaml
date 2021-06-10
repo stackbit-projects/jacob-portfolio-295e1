@@ -22,7 +22,7 @@
     - React
     - Vim
     - Node
-    - 
+    - Tailwind
   budget:
     currency: $
     min: 5
