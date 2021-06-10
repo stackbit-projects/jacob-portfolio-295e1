@@ -20,8 +20,9 @@
     - Golang
   tools:
     - React
-    - VSCode
-    - Gatsby
+    - Vim
+    - Node
+    - 
   budget:
     currency: $
     min: 5
